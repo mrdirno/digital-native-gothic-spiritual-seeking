@@ -1,0 +1,160 @@
+{
+  "book_id": "digital-native-gothic-spiritual-seeking",
+  "title": "The Scryer's Code",
+  "tagline": "In a world of digital ghosts, a teenage hacker must learn to read the ancient text of reality itself.",
+  "target_words": 70000,
+  "actual_words": 73255,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Digital Animism",
+    "Inherited Weirdness",
+    "The Palimpsest of Reality",
+    "Seeking in a Secular Age"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ghost in the Machine",
+      "words": 3050
+    },
+    {
+      "ch": 2,
+      "title": "The Unmarked Door",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "Elara and the Archive",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The First Glitch",
+      "words": 2850
+    },
+    {
+      "ch": 5,
+      "title": "The Cabin in the Static",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "Lorna's Last Transmission",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "The Threshold Guardian",
+      "words": 3150
+    },
+    {
+      "ch": 8,
+      "title": "Spectral Evidence",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "The Back-End of Reality",
+      "words": 3300
+    },
+    {
+      "ch": 10,
+      "title": "The Ouroboros Network",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "Debugging the Veil",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "Parents and Pragmatism",
+      "words": 2800
+    },
+    {
+      "ch": 13,
+      "title": "The Singing Lichen",
+      "words": 3050
+    },
+    {
+      "ch": 14,
+      "title": "The Scraping",
+      "words": 3200
+    },
+    {
+      "ch": 15,
+      "title": "Choosing a Side",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Mirror's Memory",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "A Glitch in the Rain",
+      "words": 2850
+    },
+    {
+      "ch": 18,
+      "title": "The Ritual of Reconnection",
+      "words": 3350
+    },
+    {
+      "ch": 19,
+      "title": "Facing the Static",
+      "words": 3000
+    },
+    {
+      "ch": 20,
+      "title": "The Old Writing",
+      "words": 3150
+    },
+    {
+      "ch": 21,
+      "title": "Not a Bug, a Feature",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "The Last Reflection",
+      "words": 3250
+    },
+    {
+      "ch": 23,
+      "title": "Becoming the Interface",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The Palimpsest Endures",
+      "words": 3050
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a 'ghost' not in a haunted house, but in a corrupted digital file, a glitching AR filter, or the persistent echo of a deleted social media account.",
+      "Create a profile for a modern 'spiritual guide' who operates outside traditional frameworks—a hacker, a librarian of weird podcasts, a curator of forgotten web forums, or a park ranger who knows the secret network of ley lines under the city.",
+      "Imagine a 'thin place' in the digital native world: a server farm that hums with unnatural resonance, a forgotten subreddit where prayers are answered, or an abandoned mall where the Muzak sometimes whispers truths.",
+      "Write a dialogue between a pragmatic, tech-optimist parent and their child who is beginning to see the world as layered, haunted, and spiritually porous. How does each defend their worldview?"
+    ],
+    "technical": [
+      "Build a 'Digital Scrying' tool: a web app that uses your camera and computer vision to overlay 'ghostly' glitches, text fragments, or spectral figures onto reflections in real-time video, simulating the protagonist's perception.",
+      "Create a generative text 'Palimpsest Engine' that layers fragments of old folklore, modern tech manuals, and personal diary entries, allowing users to 'scrape' between layers to reveal a hidden narrative."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William Gibson",
+      "Shirley Jackson",
+      "Terence McKenna",
+      "Ursula K. Le Guin"
+    ]
+  },
+  "cover_prompt": "A teenage hacker, her fingers tracing glowing data-streams that transform into ancient, spectral calligraphy before her eyes, performs a sacred digital ritual in a forgotten server vault, [Detailed Scene & Context: the chamber is a cathedral of dead technology, where server racks form stained-glass windows of flickering LED light and tangles of ethernet cables hang like vines over crumbling concrete, the air thick with static and the whispers of residual data], [Artistic Style & Medium: in the atmospheric style of a synthesis between James Jean's ethereal figurative work and the glitch-ridden, textured digital paintings of Beeple, blending mystical illustration with a gritty, technological decay], [Composition & Camera: book cover framing, a centered and intimate portrait composition with a dramatic low-angle looking up at the protagonist, her face illuminated by the code, with layers of translucent digital ghosts and archaic symbols overlapping in the background to create depth], [Lighting & Color Palette: dramatic chiaroscuro lighting with a cold, electric blue core light emanating from the code, contrasting against deep, warm shadows of rust and aged concrete, with accents of corrupted data in sickly green and arterial red], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
